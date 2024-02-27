@@ -1,0 +1,15 @@
+header {
+    background-color: cadetblue;
+    padding-left: 10px;
+}
+
+#imagem-prod {
+    width: 30%;
+    padding-left: 20px;
+}
+
+.caixa {
+    position: relative;
+    width: 930px;
+    margin: 5 auto;
+}
